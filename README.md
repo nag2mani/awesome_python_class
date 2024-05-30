@@ -1,2 +1,2 @@
 # General_class
-Classes which I have created.
+Classes which I love to use.
